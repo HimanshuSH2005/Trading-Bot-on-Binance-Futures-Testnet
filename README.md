@@ -1,1 +1,0 @@
-# Trading-Bot-on-Binance-Futures-Testnet
